@@ -1,0 +1,2 @@
+# Automated-Marks-Upload-System-using-ML
+In this project I am developing a software using C# on visual studio platform. This system will eliminate the manual process of uploading marks of a student, since, this process is prone to errors. This software will automatically upload  marks of the student from his/her answer sheets to the database by using some ML Algorithms (Neural Networks) for hand written digit recognition i.e. marks obtained by student. This project is under development as of now. I will update it once it gets completed.
